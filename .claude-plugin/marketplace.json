@@ -1,0 +1,22 @@
+{
+  "name": "tenkr-plugin-marketplace",
+  "owner": {
+    "name": "Tenkr AS",
+    "url": "https://tenkr.online"
+  },
+  "metadata": {
+    "description": "Tenkr's catalogue of Claude Code plugins.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "core-methodology",
+      "source": {
+        "source": "github",
+        "repo": "tenkr-as/core-methodology"
+      },
+      "description": "Four reasoning disciplines for Claude Code — explore before committing, reason in the open, prove work is done, and find the root cause before fixing.",
+      "version": "0.1.0"
+    }
+  ]
+}
