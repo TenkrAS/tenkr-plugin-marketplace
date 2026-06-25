@@ -17,6 +17,15 @@
       },
       "description": "Four reasoning disciplines for Claude Code — explore before committing, reason in the open, prove work is done, and find the root cause before fixing.",
       "version": "0.1.1"
+    },
+    {
+      "name": "knowledge-vault",
+      "source": {
+        "source": "github",
+        "repo": "tenkr-as/knowledge-vault"
+      },
+      "description": "Per-project knowledge search for Claude Code — indexes your session transcripts, project memory, and your own documents into a local hybrid (vector + keyword) index, then answers natural-language questions with citations. Optional OCR for PDFs, Office docs, and images.",
+      "version": "0.1.0"
     }
   ]
 }
