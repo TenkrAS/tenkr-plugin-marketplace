@@ -5,7 +5,7 @@ The catalogue of [Tenkr](https://tenkr.online) plugins for Claude Code.
 ## Add this marketplace
 
 ```
-/plugin marketplace add tenkr-as/tenkr-plugin-marketplace
+/plugin marketplace add TenkrAS/tenkr-plugin-marketplace
 ```
 
 ## Available plugins
@@ -22,6 +22,6 @@ The catalogue of [Tenkr](https://tenkr.online) plugins for Claude Code.
 /plugin install core-methodology@tenkr-plugin-marketplace
 ```
 
-Each plugin lives in its own repository under the [`tenkr-as`](https://github.com/tenkr-as)
+Each plugin lives in its own repository under the [`TenkrAS`](https://github.com/TenkrAS)
 organisation; this marketplace only holds the catalogue manifest
 (`.claude-plugin/marketplace.json`).
