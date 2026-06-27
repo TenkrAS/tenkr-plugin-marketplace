@@ -26,6 +26,15 @@
       },
       "description": "Per-project knowledge search for Claude Code — indexes your session transcripts, project memory, and your own documents into a local hybrid (vector + keyword) index, then answers natural-language questions with citations. Optional OCR for PDFs, Office docs, and images.",
       "version": "0.1.0"
+    },
+    {
+      "name": "plan-and-build",
+      "source": {
+        "source": "github",
+        "repo": "tenkr-as/plan-and-build"
+      },
+      "description": "Researches and plans complex work, then executes it with an evidence-gated builder-and-validator team — pre-plan, plan-with-team, and build, plus a tech-stack doctor.",
+      "version": "0.1.0"
     }
   ]
 }
