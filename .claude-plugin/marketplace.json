@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Tenkr's catalogue of Claude Code plugins.",
-    "version": "0.2.2"
+    "version": "0.2.3"
   },
   "plugins": [
     {
@@ -16,7 +16,7 @@
         "repo": "TenkrAS/core-methodology"
       },
       "description": "Four reasoning disciplines for Claude Code \u2014 explore before committing, reason in the open, prove work is done, and find the root cause before fixing.",
-      "version": "0.1.1"
+      "version": "0.1.2"
     },
     {
       "name": "knowledge-vault",
