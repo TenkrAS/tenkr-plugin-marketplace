@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Tenkr's catalogue of Claude Code plugins.",
-    "version": "0.2.1"
+    "version": "0.2.2"
   },
   "plugins": [
     {
@@ -15,7 +15,7 @@
         "source": "github",
         "repo": "TenkrAS/core-methodology"
       },
-      "description": "Four reasoning disciplines for Claude Code — explore before committing, reason in the open, prove work is done, and find the root cause before fixing.",
+      "description": "Four reasoning disciplines for Claude Code \u2014 explore before committing, reason in the open, prove work is done, and find the root cause before fixing.",
       "version": "0.1.1"
     },
     {
@@ -24,8 +24,8 @@
         "source": "github",
         "repo": "TenkrAS/knowledge-vault"
       },
-      "description": "Per-project knowledge search for Claude Code — indexes your session transcripts, project memory, and your own documents into a local hybrid (vector + keyword) index, then answers natural-language questions with citations. Optional OCR for PDFs, Office docs, and images.",
-      "version": "0.4.0"
+      "description": "Per-project knowledge search for Claude Code \u2014 indexes your session transcripts, project memory, and your own documents into a local hybrid (vector + keyword) index, then answers natural-language questions with citations. Optional OCR for PDFs, Office docs, and images.",
+      "version": "0.4.1"
     },
     {
       "name": "plan-and-build",
@@ -33,8 +33,8 @@
         "source": "github",
         "repo": "TenkrAS/plan-and-build"
       },
-      "description": "Researches and plans complex work, then executes it with an evidence-gated builder-and-validator team — pre-plan, plan-with-team, and build, plus a tech-stack doctor.",
-      "version": "0.1.0"
+      "description": "Researches and plans complex work, then executes it with an evidence-gated builder-and-validator team \u2014 pre-plan, plan-with-team, and build, plus a tech-stack doctor.",
+      "version": "0.1.1"
     }
   ]
 }
