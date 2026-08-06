@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Tenkr's catalogue of Claude Code plugins.",
-    "version": "0.2.3"
+    "version": "0.2.4"
   },
   "plugins": [
     {
@@ -34,7 +34,7 @@
         "repo": "TenkrAS/plan-and-build"
       },
       "description": "Researches and plans complex work, then executes it with an evidence-gated builder-and-validator team \u2014 pre-plan, plan-with-team, and build, plus a tech-stack doctor.",
-      "version": "0.1.1"
+      "version": "0.1.2"
     }
   ]
 }
